@@ -1,0 +1,25 @@
+.container1{
+	
+}
+
+.container2{
+	background-color: crimson;
+	width: 240px;
+	padding: 20px;
+	margin: auto;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0,1.0);
+}
+
+#submit{
+	background-color: gray;
+	color: crimson;
+}
+
+
+
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7euoM39Don6mNhnOuOLxAed_XvGhwLeRiPg&s);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+}
